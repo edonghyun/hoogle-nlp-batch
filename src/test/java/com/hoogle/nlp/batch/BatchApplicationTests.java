@@ -1,10 +1,10 @@
-package com.hoogle.nlpengine.nlpengine;
+package com.hoogle.nlp.batch;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class NlpEngineApplicationTests {
+class BatchApplicationTests {
 
 	@Test
 	void contextLoads() {
