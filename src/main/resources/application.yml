@@ -5,3 +5,7 @@ spring:
 logging:
   level:
     com.hoogle: DEBUG
+
+crawler:
+  strategies:
+    heraldKorea: com.hoogle.nlp.batch.cralwer.parser.strategy.HeraldKoreaStrategy

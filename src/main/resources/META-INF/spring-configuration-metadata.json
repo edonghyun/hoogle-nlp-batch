@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "crawler.strategies.heraldKorea",
+      "type": "java.lang.String"
+    }
+  ]
+}
